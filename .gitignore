@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Node/React
+frontend/node_modules/
+frontend/build/
+
+# Spark & Kafka logs
+*.log
+
+# Logi
+*.log
