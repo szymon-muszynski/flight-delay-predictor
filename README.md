@@ -1,6 +1,6 @@
 # Real-Time Flight Delay Prediction System
 
-Kompleksowy projekt klasy Big Data przewidujący ryzyko opóźnienia startu samolotów w oparciu o historyczne dane lotnicze oraz warunki meteorologiczne. Zbiór danych (Flight Ontime Reporting with Weather) obejmuje ponad 14 milionów rekordów.
+Kompleksowy projekt klasy Big Data przewidujący ryzyko opóźnienia startu samolotów w oparciu o historyczne dane lotnicze oraz warunki meteorologiczne. Zbiór danych ([Flight Ontime Reporting with Weather](https://www.kaggle.com/datasets/williamparker20/flight-ontime-reporting-with-weather)) obejmuje ponad 14 milionów rekordów.
 
 Projekt obrazuje pełen cykl życia modelu uczenia maszynowego: od analityki i fazy badawczej (Jupyter Notebooks), aż po wdrożenie wybranego algorytmu do lokalnego, kontenerowego środowiska strumieniowego (Proof of Concept) opartego na Apache Spark i Apache Kafka.
 
